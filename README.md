@@ -1,5 +1,7 @@
 # tipssoft - 커뮤니팁스 운영자 모임
 
+[![Join the chat at https://gitter.im/tipssoft/Lobby](https://badges.gitter.im/tipssoft/Lobby.svg)](https://gitter.im/tipssoft/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 이 Repo는 커뮤니팁스 운영자 모임 - Machine Learning의 발표자료 Repo임
 - Github URL : https://github.com/CloudBreadPaPa/tipssoft/  
 
